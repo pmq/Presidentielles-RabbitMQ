@@ -1,7 +1,7 @@
 Code for the RabbitMQ .Net - Java interoperability demo at the Microsoft TechDays 2012
 
 Mandatory screenshot:
-!https://github.com/Zenika/Presidentielles-RabbitMQ/blob/master/screenshot.png!
+!Presidentielles-RabbitMQ/blob/84f1cd28396b05bd15394ef03f15d7d5f0a5fec9/screenshot.png!
 
 "Watch the video (in French)":http://www.microsoft.com/france/mstechdays/programmes/parcours.aspx?SessionID=b537aba7-8e86-4e41-a226-7f8fcf727f3d#&fbid=vIPzQ3hxQMf
 
