@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TechDays.Backend.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UriIndex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\temp\index.xml</Value>
+    </Setting>
+    <Setting Name="UriResults" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.interieur.gouv.fr/avotreservice/elections/telechargements/PR2007/T2Valide/{0}/{1}/{2}.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

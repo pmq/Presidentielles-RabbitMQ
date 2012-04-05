@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Election>
+  <Scrutin>
+    <Type>Sénatoriales</Type>
+    <Annee>2008</Annee>
+  </Scrutin>
+  <Date>19-07-2011</Date>
+  <Heure>11:07:59</Heure>
+  <ListeDpt>
+    <Dpt>
+      <CodReg>82</CodReg>
+      <CodReg3Car>082</CodReg3Car>
+      <CodDpt>01</CodDpt>
+      <CodDpt3Car>001</CodDpt3Car>
+      <CodMinDpt>01</CodMinDpt>
+      <LibDpt>AIN</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>14:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>22</CodReg>
+      <CodReg3Car>022</CodReg3Car>
+      <CodDpt>02</CodDpt>
+      <CodDpt3Car>002</CodDpt3Car>
+      <CodMinDpt>02</CodMinDpt>
+      <LibDpt>AISNE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>83</CodReg>
+      <CodReg3Car>083</CodReg3Car>
+      <CodDpt>03</CodDpt>
+      <CodDpt3Car>003</CodDpt3Car>
+      <CodMinDpt>03</CodMinDpt>
+      <LibDpt>ALLIER</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>93</CodReg>
+      <CodReg3Car>093</CodReg3Car>
+      <CodDpt>04</CodDpt>
+      <CodDpt3Car>004</CodDpt3Car>
+      <CodMinDpt>04</CodMinDpt>
+      <LibDpt>ALPES DE HAUTE PROVENCE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>93</CodReg>
+      <CodReg3Car>093</CodReg3Car>
+      <CodDpt>05</CodDpt>
+      <CodDpt3Car>005</CodDpt3Car>
+      <CodMinDpt>05</CodMinDpt>
+      <LibDpt>HAUTES ALPES</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>93</CodReg>
+      <CodReg3Car>093</CodReg3Car>
+      <CodDpt>06</CodDpt>
+      <CodDpt3Car>006</CodDpt3Car>
+      <CodMinDpt>06</CodMinDpt>
+      <LibDpt>ALPES MARITIMES</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>82</CodReg>
+      <CodReg3Car>082</CodReg3Car>
+      <CodDpt>07</CodDpt>
+      <CodDpt3Car>007</CodDpt3Car>
+      <CodMinDpt>07</CodMinDpt>
+      <LibDpt>ARDECHE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>21</CodReg>
+      <CodReg3Car>021</CodReg3Car>
+      <CodDpt>08</CodDpt>
+      <CodDpt3Car>008</CodDpt3Car>
+      <CodMinDpt>08</CodMinDpt>
+      <LibDpt>ARDENNES</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>73</CodReg>
+      <CodReg3Car>073</CodReg3Car>
+      <CodDpt>09</CodDpt>
+      <CodDpt3Car>009</CodDpt3Car>
+      <CodMinDpt>09</CodMinDpt>
+      <LibDpt>ARIEGE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>21</CodReg>
+      <CodReg3Car>021</CodReg3Car>
+      <CodDpt>10</CodDpt>
+      <CodDpt3Car>010</CodDpt3Car>
+      <CodMinDpt>10</CodMinDpt>
+      <LibDpt>AUBE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>91</CodReg>
+      <CodReg3Car>091</CodReg3Car>
+      <CodDpt>11</CodDpt>
+      <CodDpt3Car>011</CodDpt3Car>
+      <CodMinDpt>11</CodMinDpt>
+      <LibDpt>AUDE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>73</CodReg>
+      <CodReg3Car>073</CodReg3Car>
+      <CodDpt>12</CodDpt>
+      <CodDpt3Car>012</CodDpt3Car>
+      <CodMinDpt>12</CodMinDpt>
+      <LibDpt>AVEYRON</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>93</CodReg>
+      <CodReg3Car>093</CodReg3Car>
+      <CodDpt>13</CodDpt>
+      <CodDpt3Car>013</CodDpt3Car>
+      <CodMinDpt>13</CodMinDpt>
+      <LibDpt>BOUCHES DU RHONE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>25</CodReg>
+      <CodReg3Car>025</CodReg3Car>
+      <CodDpt>14</CodDpt>
+      <CodDpt3Car>014</CodDpt3Car>
+      <CodMinDpt>14</CodMinDpt>
+      <LibDpt>CALVADOS</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>83</CodReg>
+      <CodReg3Car>083</CodReg3Car>
+      <CodDpt>15</CodDpt>
+      <CodDpt3Car>015</CodDpt3Car>
+      <CodMinDpt>15</CodMinDpt>
+      <LibDpt>CANTAL</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>54</CodReg>
+      <CodReg3Car>054</CodReg3Car>
+      <CodDpt>16</CodDpt>
+      <CodDpt3Car>016</CodDpt3Car>
+      <CodMinDpt>16</CodMinDpt>
+      <LibDpt>CHARENTE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>54</CodReg>
+      <CodReg3Car>054</CodReg3Car>
+      <CodDpt>17</CodDpt>
+      <CodDpt3Car>017</CodDpt3Car>
+      <CodMinDpt>17</CodMinDpt>
+      <LibDpt>CHARENTE MARITIME</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>24</CodReg>
+      <CodReg3Car>024</CodReg3Car>
+      <CodDpt>18</CodDpt>
+      <CodDpt3Car>018</CodDpt3Car>
+      <CodMinDpt>18</CodMinDpt>
+      <LibDpt>CHER</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>74</CodReg>
+      <CodReg3Car>074</CodReg3Car>
+      <CodDpt>19</CodDpt>
+      <CodDpt3Car>019</CodDpt3Car>
+      <CodMinDpt>19</CodMinDpt>
+      <LibDpt>CORREZE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>26</CodReg>
+      <CodReg3Car>026</CodReg3Car>
+      <CodDpt>21</CodDpt>
+      <CodDpt3Car>021</CodDpt3Car>
+      <CodMinDpt>21</CodMinDpt>
+      <LibDpt>COTE D'OR</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>53</CodReg>
+      <CodReg3Car>053</CodReg3Car>
+      <CodDpt>22</CodDpt>
+      <CodDpt3Car>022</CodDpt3Car>
+      <CodMinDpt>22</CodMinDpt>
+      <LibDpt>COTES D'ARMOR</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>74</CodReg>
+      <CodReg3Car>074</CodReg3Car>
+      <CodDpt>23</CodDpt>
+      <CodDpt3Car>023</CodDpt3Car>
+      <CodMinDpt>23</CodMinDpt>
+      <LibDpt>CREUSE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>72</CodReg>
+      <CodReg3Car>072</CodReg3Car>
+      <CodDpt>24</CodDpt>
+      <CodDpt3Car>024</CodDpt3Car>
+      <CodMinDpt>24</CodMinDpt>
+      <LibDpt>DORDOGNE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>43</CodReg>
+      <CodReg3Car>043</CodReg3Car>
+      <CodDpt>25</CodDpt>
+      <CodDpt3Car>025</CodDpt3Car>
+      <CodMinDpt>25</CodMinDpt>
+      <LibDpt>DOUBS</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>82</CodReg>
+      <CodReg3Car>082</CodReg3Car>
+      <CodDpt>26</CodDpt>
+      <CodDpt3Car>026</CodDpt3Car>
+      <CodMinDpt>26</CodMinDpt>
+      <LibDpt>DROME</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>23</CodReg>
+      <CodReg3Car>023</CodReg3Car>
+      <CodDpt>27</CodDpt>
+      <CodDpt3Car>027</CodDpt3Car>
+      <CodMinDpt>27</CodMinDpt>
+      <LibDpt>EURE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>24</CodReg>
+      <CodReg3Car>024</CodReg3Car>
+      <CodDpt>28</CodDpt>
+      <CodDpt3Car>028</CodDpt3Car>
+      <CodMinDpt>28</CodMinDpt>
+      <LibDpt>EURE ET LOIR</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>53</CodReg>
+      <CodReg3Car>053</CodReg3Car>
+      <CodDpt>29</CodDpt>
+      <CodDpt3Car>029</CodDpt3Car>
+      <CodMinDpt>29</CodMinDpt>
+      <LibDpt>FINISTERE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>94</CodReg>
+      <CodReg3Car>094</CodReg3Car>
+      <CodDpt>2A</CodDpt>
+      <CodDpt3Car>02A</CodDpt3Car>
+      <CodMinDpt>2A</CodMinDpt>
+      <LibDpt>CORSE SUD</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>94</CodReg>
+      <CodReg3Car>094</CodReg3Car>
+      <CodDpt>2B</CodDpt>
+      <CodDpt3Car>02B</CodDpt3Car>
+      <CodMinDpt>2B</CodMinDpt>
+      <LibDpt>HAUTE CORSE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>91</CodReg>
+      <CodReg3Car>091</CodReg3Car>
+      <CodDpt>30</CodDpt>
+      <CodDpt3Car>030</CodDpt3Car>
+      <CodMinDpt>30</CodMinDpt>
+      <LibDpt>GARD</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>73</CodReg>
+      <CodReg3Car>073</CodReg3Car>
+      <CodDpt>31</CodDpt>
+      <CodDpt3Car>031</CodDpt3Car>
+      <CodMinDpt>31</CodMinDpt>
+      <LibDpt>HAUTE GARONNE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>73</CodReg>
+      <CodReg3Car>073</CodReg3Car>
+      <CodDpt>32</CodDpt>
+      <CodDpt3Car>032</CodDpt3Car>
+      <CodMinDpt>32</CodMinDpt>
+      <LibDpt>GERS</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>72</CodReg>
+      <CodReg3Car>072</CodReg3Car>
+      <CodDpt>33</CodDpt>
+      <CodDpt3Car>033</CodDpt3Car>
+      <CodMinDpt>33</CodMinDpt>
+      <LibDpt>GIRONDE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>91</CodReg>
+      <CodReg3Car>091</CodReg3Car>
+      <CodDpt>34</CodDpt>
+      <CodDpt3Car>034</CodDpt3Car>
+      <CodMinDpt>34</CodMinDpt>
+      <LibDpt>HERAULT</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>53</CodReg>
+      <CodReg3Car>053</CodReg3Car>
+      <CodDpt>35</CodDpt>
+      <CodDpt3Car>035</CodDpt3Car>
+      <CodMinDpt>35</CodMinDpt>
+      <LibDpt>ILLE ET VILAINE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>24</CodReg>
+      <CodReg3Car>024</CodReg3Car>
+      <CodDpt>36</CodDpt>
+      <CodDpt3Car>036</CodDpt3Car>
+      <CodMinDpt>36</CodMinDpt>
+      <LibDpt>INDRE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>43</CodReg>
+      <CodReg3Car>043</CodReg3Car>
+      <CodDpt>90</CodDpt>
+      <CodDpt3Car>090</CodDpt3Car>
+      <CodMinDpt>90</CodMinDpt>
+      <LibDpt>TERRITOIRE DE BELFORT</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodReg>03</CodReg>
+      <CodReg3Car>003</CodReg3Car>
+      <CodDpt>ZC</CodDpt>
+      <CodDpt3Car>973</CodDpt3Car>
+      <CodMinDpt>973</CodMinDpt>
+      <LibDpt>GUYANE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodDpt>ZP</CodDpt>
+      <CodDpt3Car>987</CodDpt3Car>
+      <CodMinDpt>987</CodMinDpt>
+      <LibDpt>POLYNESIE FRANCAISE</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodDpt>ZT</CodDpt>
+      <CodDpt3Car>978</CodDpt3Car>
+      <CodMinDpt>978</CodMinDpt>
+      <LibDpt>SAINT-MARTIN</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodDpt>ZW</CodDpt>
+      <CodDpt3Car>986</CodDpt3Car>
+      <CodMinDpt>986</CodMinDpt>
+      <LibDpt>WALLIS-ET-FUTUNA</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodDpt>ZY</CodDpt>
+      <CodDpt3Car>977</CodDpt3Car>
+      <CodMinDpt>977</CodMinDpt>
+      <LibDpt>SAINT-BARTHELEMY</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+    <Dpt>
+      <CodDpt>ZZ</CodDpt>
+      <CodDpt3Car>099</CodDpt3Car>
+      <CodMinDpt>99</CodMinDpt>
+      <LibDpt>FRANCAIS DE L'ETRANGER</LibDpt>
+      <DateClotureDpt>19-07-2011</DateClotureDpt>
+      <HeureClotureDpt>10:59:04</HeureClotureDpt>
+      <Clos>NON CLOS</Clos>
+    </Dpt>
+  </ListeDpt>
+</Election>

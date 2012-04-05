@@ -1,0 +1,25 @@
+﻿<Window x:Class="TechDays.Backend.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:TechDays.Backend"
+        Title="TechDays.Backend" Height="350" Width="525" Loaded="Window_Loaded" Closed="Window_Closed" xmlns:my="clr-namespace:TechDays.Backend.View">
+    <Window.Resources>
+        <local:InverseBooleanConverter x:Key="InverseBooleanConverter"/>
+    </Window.Resources>    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <my:ZonesView Grid.Row="0" x:Name="ucZonesView" />
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Button Content="Initialize"  Height="23" HorizontalAlignment="Left"  Name="buttonInit"  Margin="3" VerticalAlignment="Top" Width="75"  Click="buttonInit_Click" />
+
+            <Button Content="Start" Height="23" HorizontalAlignment="Left"  Name="buttonStart" Margin="3" VerticalAlignment="Top" Width="75"  Click="buttonStart_Click" IsEnabled="{Binding IsStarted, Converter={StaticResource InverseBooleanConverter}}"/>
+            <Button Content="Stop"  Height="23" HorizontalAlignment="Left"  Name="buttonStop"  Margin="3" VerticalAlignment="Top" Width="75"  Click="buttonStop_Click" IsEnabled="{Binding IsStarted}" />
+            <Button Content="Closed"  Height="23" HorizontalAlignment="Left"  Name="buttonClosed"  Margin="3" VerticalAlignment="Top" Width="75"  Click="buttonClosed_Click" IsEnabled="{Binding IsStarted}" />
+            <Button Content="All"  Height="23" HorizontalAlignment="Left"  Name="buttonAll"  Margin="3" VerticalAlignment="Top" Width="75"  Click="buttonAll_Click" IsEnabled="{Binding IsStarted}" />
+        </StackPanel>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="TechDays.UI.Map.View.WinnersTooltip"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TechDays.Converters;assembly=TechDays.Converters"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" DataContext="{Binding}">
+
+    <UserControl.Resources>
+        <local:ImageConverter x:Key="ImageConverter"/>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Column="0" Grid.Row="0" Orientation="Horizontal">
+            <TextBlock Text="{Binding CodDpt3Car}" Margin="3" FontSize="24" FontWeight="Bold" />
+            <TextBlock Text="-" Margin="3" FontSize="24" FontWeight="Bold" />
+            <TextBlock Text="{Binding LibDpt}" Margin="3" FontSize="24" FontWeight="Bold" />
+        </StackPanel>
+        <ItemsControl Grid.Column="0" Grid.Row="2" ItemsSource="{Binding Winners}">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+
+                        <Image Grid.Column="0" Source="{Binding Path=Portrait}" Stretch="Uniform" Width="150" Margin="0,3,0,0" />
+                        <StackPanel Grid.Column="1" Orientation="Vertical" VerticalAlignment="Top" Margin="3">
+                            <TextBlock Text="{Binding Name}" FontSize="24" />
+                            <TextBlock Text="{Binding FirstName}" FontSize="20" FontWeight="Bold" />
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </Grid>
+</UserControl>
+

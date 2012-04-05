@@ -1,0 +1,10 @@
+﻿<Window x:Class="TechDays.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TechDays.UI" Height="350" Width="525" xmlns:my="clr-namespace:TechDays.UI.Map.View;assembly=TechDays.UI.Map" Closed="Window_Closed">
+    <Grid>
+        <Viewbox Stretch="Uniform" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0" Visibility="Visible">
+            <my:ZonesMap  Margin="0" Name="ucZonesMap" />
+        </Viewbox>
+    </Grid>
+</Window>
